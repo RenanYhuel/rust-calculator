@@ -25,8 +25,8 @@ Important : pour cet apprentissage je me suis volontairement interdit d'utilise
 1. Cloner le dépôt :
 
 ```bash
-git clone <URL_DU_REPO>
-cd <nom_du_dossier>
+git clone https://github.com/RenanYhuel/rust-calculator.git
+cd calculator
 ```
 
 2. Compiler et lancer :
